@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <script defer src="{{ '/assets/js/site.js' | relative_url }}"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="nav-wrap">
+      <a class="brand" href="{{ '/' | relative_url }}">T. T. Anika</a>
+      <button class="nav-toggle" aria-label="Open navigation" aria-expanded="false">☰</button>
+      <nav class="site-nav" aria-label="Primary navigation">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/research/' | relative_url }}">Research</a>
+        <a href="{{ '/publications/' | relative_url }}">Publications</a>
+        <a href="{{ '/education-work/' | relative_url }}">Education &amp; Work</a>
+        <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
+        <a href="{{ '/updates/' | relative_url }}">Updates</a>
+        <a href="{{ '/cv/' | relative_url }}">CV</a>
+        <a href="{{ '/contact/' | relative_url }}">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-wrap">
+      <div>© {{ 'now' | date: '%Y' }} {{ site.title }}</div>
+      <div class="footer-links">
+        <a href="{{ site.author.github }}">GitHub</a>
+        <a href="{{ site.author.scholar }}">Google Scholar</a>
+        <a href="{{ site.author.orcid }}">ORCID</a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

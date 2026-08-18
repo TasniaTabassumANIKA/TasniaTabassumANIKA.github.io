@@ -1,0 +1,24 @@
+- title: "PM2.5 Exposure and Explainable ML along Dhaka MRT Line-6"
+  summary: "Spatiotemporal assessment of PM2.5 exposure among metro commuters using field monitoring, statistical analysis, GIS, health-risk assessment, and explainable machine learning."
+  status: "M.Sc. thesis research · BUET · 2024–Present"
+  tags: ["PM2.5", "GIS", "Explainable ML", "Exposure Assessment"]
+
+- title: "AI-Based Prediction of Concrete Compressive Strength"
+  summary: "Machine-learning prediction of compressive strength for conventional and geopolymer concrete, supported by experimental mix-design and testing."
+  status: "B.Sc. thesis · KUET · 2022–2023"
+  tags: ["Concrete", "Geopolymer", "Machine Learning", "Materials"]
+
+- title: "Explainable Data-Driven Framework for Inverse Mix Design"
+  summary: "An emerging research direction toward inverse mix design, performance prediction, and multi-objective optimization for fly ash–GBFS geopolymer concrete."
+  status: "Manuscript under review"
+  tags: ["Inverse Design", "Optimization", "Geopolymer", "XAI"]
+
+- title: "Air Quality in Metro Stations and Urban Transport Systems"
+  summary: "Investigation of fine particulate matter and environmental conditions inside metro stations and coaches, with applications to commuter exposure assessment."
+  status: "Research project"
+  tags: ["Urban Air Quality", "Metro", "Field Monitoring", "GIS"]
+
+- title: "Waste-Derived Materials for Sustainable Concrete"
+  summary: "Experimental studies on e-waste plastic aggregate replacement and snail shell powder as potential sustainable construction materials."
+  status: "Research projects / publications"
+  tags: ["Recycled Materials", "Concrete", "Waste Valorization", "Sustainability"]

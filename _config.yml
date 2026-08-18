@@ -1,0 +1,25 @@
+title: "Tasnia Tabassum Anika"
+description: "Civil engineering researcher and lecturer working at the intersection of sustainable infrastructure, urban environmental systems, and data-driven modeling."
+url: "https://tasniatabassumanika.github.io"
+baseurl: ""
+repository: "TasniaTabassumANIKA/TasniaTabassumANIKA.github.io"
+author:
+  name: "Tasnia Tabassum Anika"
+  position: "Lecturer, Department of Civil Engineering"
+  institution: "Dhaka International University"
+  email: "anika22r@gmail.com"
+  github: "https://github.com/TasniaTabassumANIKA"
+  linkedin: "https://www.linkedin.com/in/tasnia-tabassum-anika-1a3489184/"
+  scholar: "https://scholar.google.com/citations?user=i-P2LG4AAAAJ&hl=en"
+  orcid: "https://orcid.org/0009-0008-6846-6823"
+markdown: kramdown
+permalink: pretty
+collections:
+  projects:
+    output: false
+plugins: []
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

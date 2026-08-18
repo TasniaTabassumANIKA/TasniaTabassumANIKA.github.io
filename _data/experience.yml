@@ -1,0 +1,19 @@
+- role: "Lecturer, Department of Civil Engineering"
+  organization: "Dhaka International University"
+  years: "2024–Present"
+  description: "Teaching undergraduate civil engineering courses and laboratories; contributing to curriculum development, academic planning, and research-oriented activities."
+
+- role: "Lecturer"
+  organization: "ADUST"
+  years: "2024"
+  description: "Undergraduate teaching and academic responsibilities in civil engineering."
+
+- role: "M.Sc. Thesis Researcher"
+  organization: "Bangladesh University of Engineering & Technology (BUET)"
+  years: "2024–Present"
+  description: "Spatiotemporal assessment, commuter exposure and health-risk analysis with explainable machine-learning prediction of PM2.5 among Dhaka MRT Line-6 commuters."
+
+- role: "B.Sc. Thesis Researcher"
+  organization: "Khulna University of Engineering & Technology (KUET)"
+  years: "2022–2023"
+  description: "AI-based prediction of compressive strength of geopolymer and conventional concrete using experimental datasets and Python-based machine learning."
