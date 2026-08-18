@@ -18,7 +18,7 @@ title: Home
     </div>
 
     <aside class="profile-card">
-      <div class="<img>">TTA</div>
+      <div class="<img>">assetsimgprofile.jpg</div>
       <p><strong>Current focus</strong></p>
       <p class="small">Infrastructure–urban climate interactions, sustainable materials, spatial and spatiotemporal analysis, machine learning, and environmental exposure.</p>
       <p class="small"><a href="{{ site.author.scholar }}">Google Scholar</a> · <a href="{{ site.author.orcid }}">ORCID</a></p>
