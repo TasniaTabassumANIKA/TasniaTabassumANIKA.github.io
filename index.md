@@ -17,7 +17,7 @@ title: Home
       </div>
     </div>
 
-    <aside
+    <aside>
       <img class="profile-photo"
       src="{{ '/assets/img/profile.jpg' | relative_url }}"
       alt="Tasnia Tabassum Anika">
