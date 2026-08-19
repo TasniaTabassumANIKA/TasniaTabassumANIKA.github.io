@@ -54,9 +54,8 @@ title: Home
       <h3>Sustainable Infrastructure</h3>
       <div class="tag-wrap">
         <span class="tag">Sustainable &amp; Resilient Infrastructure</span>
-        <span class="tag">Structural Materials &amp; Concrete Engineering</span>
+        <span class="tag">Structural Materials &amp; Life-Cycle Assessment</span>
         <span class="tag">Infrastructure Durability &amp; Performance</span>
-        <span class="tag">Life-Cycle &amp; Environmental Assessment</span>
       </div>
     </div>
 
@@ -74,7 +73,6 @@ title: Home
       <div class="tag-wrap">
         <span class="tag">Transportation Infrastructure</span>
         <span class="tag">Sustainable Urban Mobility</span>
-        <span class="tag">Transportation Environmental Impacts</span>
         <span class="tag">Traffic &amp; Transportation Modeling</span>
       </div>
     </div>
