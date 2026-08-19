@@ -198,3 +198,25 @@ h1 {
   .contact-grid { grid-template-columns: 1fr; }
   .footer-wrap { flex-direction: column; }
 }
+.research-interest-groups {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.2rem 2rem;
+}
+
+.research-interest-group h3 {
+  margin: 0 0 0.55rem;
+  font-size: 1rem;
+  color: #1F4E79;
+}
+
+.research-interest-group .tag-wrap {
+  margin-bottom: 0.5rem;
+}
+
+@media (max-width: 700px) {
+  .research-interest-groups {
+    grid-template-columns: 1fr;
+  }
+}
+
