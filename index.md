@@ -24,8 +24,7 @@ title: Home
 
   <p><strong>Current focus</strong></p>
   <p class="small">
-    Infrastructure–urban climate interactions, sustainable materials,
-    spatial and spatiotemporal analysis, machine learning, and environmental exposure.
+    Sustainable infrastructure, structural materials, urban environmental systems, and transportation environments, with an emphasis on GIS, spatiotemporal analysis, machine learning, environmental exposure, and data-driven prediction and optimization.
   </p>
 
   <p class="small">
