@@ -60,20 +60,20 @@ title: Home
     </div>
 
     <div class="research-interest-group">
-      <h3>Urban Environmental Systems</h3>
-      <div class="tag-wrap">
-        <span class="tag">Urban Air Quality &amp; Environmental Modeling</span>
-        <span class="tag">Environmental Exposure &amp; Health-Risk Assessment</span>
-        <span class="tag">Urban Climate &amp; Infrastructure Interactions</span>
-      </div>
-    </div>
-
-    <div class="research-interest-group">
       <h3>Transportation &amp; Mobility</h3>
       <div class="tag-wrap">
         <span class="tag">Transportation Infrastructure</span>
         <span class="tag">Sustainable Urban Mobility</span>
         <span class="tag">Traffic &amp; Transportation Modeling</span>
+      </div>
+    </div>
+
+    <div class="research-interest-group">
+      <h3>Urban Environmental Systems</h3>
+      <div class="tag-wrap">
+        <span class="tag">Urban Air Quality &amp; Environmental Modeling</span>
+        <span class="tag">Environmental Exposure &amp; Health-Risk Assessment</span>
+        <span class="tag">Urban Climate &amp; Infrastructure Interactions</span>
       </div>
     </div>
 
