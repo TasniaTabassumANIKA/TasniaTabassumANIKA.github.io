@@ -40,7 +40,7 @@ title: Home
     <div>
       <h2 class="section-title">Research profile</h2>
       <hr class="rule">
-      <p>I am a civil engineering researcher and lecturer working at the intersection of **sustainable infrastructure, structural materials, urban environmental systems, transportation, and data-driven engineering**. My research focuses on improving infrastructure **sustainability, resilience, performance, and environmental outcomes** through experimental, spatial, environmental, and computational approaches. I am particularly interested in integrating **machine learning, explainable AI, GIS, and spatiotemporal modeling** to understand infrastructure–environment interactions and develop sustainable, resilient, and data-driven solutions for civil infrastructure.</p>
+      <p>I am a civil engineering researcher and lecturer working at the intersection of sustainable infrastructure, structural materials, urban environmental systems, transportation, and data-driven engineering. My research focuses on improving infrastructure sustainability, resilience, performance, and environmental outcomes through experimental, spatial, environmental, and computational approaches. I am particularly interested in integrating machine learning, explainable AI, GIS, and spatiotemporal modeling to understand infrastructure–environment interactions and develop sustainable, resilient, and data-driven solutions for civil infrastructure.</p>
       <p>My current graduate research integrates field monitoring, statistical analysis, GIS, and explainable machine learning to study PM<sub>2.5</sub> exposure among Dhaka MRT Line-6 commuters.</p>
     </div>
 
