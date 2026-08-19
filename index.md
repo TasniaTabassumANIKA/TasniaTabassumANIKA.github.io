@@ -18,13 +18,21 @@ title: Home
     </div>
 
     <aside>
-      <img class="profile-photo"
-      src="{{ '/assets/img/profile.jpg' | relative_url }}"
-      alt="Tasnia Tabassum Anika">
-      <p><strong>Current focus</strong></p>
-      <p class="small">Infrastructure–urban climate interactions, sustainable materials, spatial and spatiotemporal analysis, machine learning, and environmental exposure.</p>
-      <p class="small"><a href="{{ site.author.scholar }}">Google Scholar</a> · <a href="{{ site.author.orcid }}">ORCID</a></p>
-    </aside>
+  <img class="profile-photo"
+       src="{{ '/assets/img/profile.jpg' | relative_url }}"
+       alt="Tasnia Tabassum Anika">
+
+  <p><strong>Current focus</strong></p>
+  <p class="small">
+    Infrastructure–urban climate interactions, sustainable materials,
+    spatial and spatiotemporal analysis, machine learning, and environmental exposure.
+  </p>
+
+  <p class="small">
+    <a href="{{ site.author.scholar }}">Google Scholar</a> ·
+    <a href="{{ site.author.orcid }}">ORCID</a>
+  </p>
+</aside>
   </div>
 </section>
 
