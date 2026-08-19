@@ -46,17 +46,52 @@ title: Home
     </div>
 
     <div>
-      <h2 class="section-title">Research interests</h2>
-      <hr class="rule">
+  <h2 class="section-title">Research Interests</h2>
+  <hr class="rule">
+
+  <div class="research-interest-groups">
+
+    <div class="research-interest-group">
+      <h3>Sustainable Infrastructure</h3>
       <div class="tag-wrap">
-        <span class="tag">Infrastructure–Urban Climate Interactions</span>
-        <span class="tag">Urban Environmental Modeling</span>
-        <span class="tag">Spatiotemporal &amp; Life-Cycle Analysis</span>
-        <span class="tag">Machine Learning &amp; Explainable AI</span>
-        <span class="tag">Sustainable &amp; Climate-Responsive Infrastructure</span>
-        <span class="tag">Environmental Exposure &amp; Risk Assessment</span>
+        <span class="tag">Sustainable &amp; Resilient Infrastructure</span>
+        <span class="tag">Structural Materials &amp; Concrete Engineering</span>
+        <span class="tag">Infrastructure Durability &amp; Performance</span>
+        <span class="tag">Life-Cycle &amp; Environmental Assessment</span>
       </div>
     </div>
+
+    <div class="research-interest-group">
+      <h3>Urban Environmental Systems</h3>
+      <div class="tag-wrap">
+        <span class="tag">Urban Air Quality &amp; Environmental Modeling</span>
+        <span class="tag">Environmental Exposure &amp; Health-Risk Assessment</span>
+        <span class="tag">Urban Climate &amp; Infrastructure Interactions</span>
+      </div>
+    </div>
+
+    <div class="research-interest-group">
+      <h3>Transportation &amp; Mobility</h3>
+      <div class="tag-wrap">
+        <span class="tag">Transportation Infrastructure</span>
+        <span class="tag">Sustainable Urban Mobility</span>
+        <span class="tag">Transportation Environmental Impacts</span>
+        <span class="tag">Traffic &amp; Transportation Modeling</span>
+      </div>
+    </div>
+
+    <div class="research-interest-group">
+      <h3>Data-Driven Civil Engineering</h3>
+      <div class="tag-wrap">
+        <span class="tag">Machine Learning &amp; Explainable AI</span>
+        <span class="tag">GIS &amp; Spatial Analysis</span>
+        <span class="tag">Spatiotemporal Modeling</span>
+        <span class="tag">Data-Driven Prediction &amp; Optimization</span>
+      </div>
+    </div>
+
+  </div>
+</div>
   </div>
 </section>
 
